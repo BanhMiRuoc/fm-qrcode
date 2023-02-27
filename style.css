@@ -3,13 +3,13 @@
     padding: 0;
     border: 0;
 }
-#biggest {
+.background {
     width: 100vw;
     height: 100vh;
     display:flex;
     background-color: hsl(212, 45%, 89%);
 }
-.background>#largest {
+.content {
     /* setting center */
     width: 200px;
     height: 200px;
