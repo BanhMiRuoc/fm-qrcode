@@ -19,7 +19,6 @@
     border: 10px white solid;
     border-radius: 5%;
     background-color: white;
-    background-image: url(/images/image-qr-code.png) no-repeat;
     background-origin: content-box;
     box-shadow: 5px 5px 5px 5px rgba(211, 212, 226, 0.653);
 }
