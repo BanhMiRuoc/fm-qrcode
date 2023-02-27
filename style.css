@@ -37,6 +37,6 @@ h3#text_1 {
 }
 p#text_2 {
     font-size: 16px;
-    padding:0px 10px 0px;
+    padding:0px 10px;
     color:hsl(212, 6%, 57%);
 }
