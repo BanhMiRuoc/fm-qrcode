@@ -3,11 +3,6 @@
     padding: 0;
     border: 0;
 }
-html {
-    width:100px;
-    height:100px;
-    box-sizing: border-box;
-}
 #biggest {
     width: 100vw;
     height: 100vh;
@@ -34,7 +29,7 @@ img{
 p{
 
     text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-family: outfit;
 }
 p#text_1 {
     font-size: 14px;
